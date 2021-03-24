@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+h1 {
+  color: gold;
+}
+p {
+  color: crimson;
+  margin-top: 5rem;
+  font-size: 22px;
+}
+
+#posizione {
+  margin-left: 1rem;
+  color: lime;
+  font-size: 30px;
+}
+
+#listaCognomi {
+  list-style: none;
+  margin-top: 4rem;
+}
+
+#listaCognomi li {
+  background-color: goldenrod;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  width: 10rem;
+  text-align: center;
+  margin-left: 51rem;
+}
